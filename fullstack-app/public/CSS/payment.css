@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 68vh;
+  font-family: "Varela Round", sans-serif;
+  background-color: #f5f5f5;
+}
+
+.icon-success {
+  color: #5ac99d;
+  font-size: 12rem;
+}
+
+.icon-cancel {
+  color: red;
+  font-size: 12rem;
+}
+
+.text-success {
+  color: #5ac99d;
+}
+.text-cancel {
+  color: red;
+}
